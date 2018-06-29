@@ -37,9 +37,16 @@ dependency in your `build.gradle`.
 ```
     
 (module)
-```groovy    
+```groovy
+    allprojects {
+        repositories {
+	    maven { url 'https://jitpack.io' }
+	}
+    }   
+
+ 
     dependencies {
-        implementation 'com.dubstepwolf123.materialcolorpickerdark'
+        implementation 'com.github.Dubstepwolf123:android-material-colour-picker-dialog-dark:1.2.4'
     }
 ```
 
