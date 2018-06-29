@@ -1,7 +1,7 @@
-[ ![Download](https://api.bintray.com/packages/pes8/maven/Material-Color-Picker-Dialog/images/download.svg) ](https://bintray.com/pes8/maven/Material-Color-Picker-Dialog/_latestVersion) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DV499BFU9XWFQ)
+[![Donate to the original developers](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DV499BFU9XWFQ)
 
 # Android Material Color Picker Dialog
-A simple, minimalistic and beautiful dialog color picker for Android 4.1+ devices. This color picker is easy-to-use and easy-to-integrate in your application to let users of your app choose color in a simple way.
+A simple, minimalistic and beautiful dialog color picker with a dark theme for Android 4.1+ devices. This color picker is easy-to-use and easy-to-integrate in your application to let users of your app choose color in a simple way. Light version can be found under the 'Languages' section.
 
 Features
 - Get Hex and (A)RGB color codes
@@ -124,27 +124,11 @@ The old interface is still in the library but will be removed in the next versio
 
 If you would like to help localise this library please fork the project, create and verify your language files, add the language to the README then create a pull request.
 
+## White Version (Original)
 
-## Example
+(https://github.com/Pes8/android-material-color-picker-dialog)
 
-Example app that use Android Material Color Picker Dialog to let users choose the color of the Qr Code:
 
-[Qr Code Generator Play Store](https://play.google.com/store/apps/details?id=com.pes.qrcodegeneratorv2)
-
-[Qr Code Generator Direct Download](http://www.simonepessotto.it/App/QrCodeGeneratorRevolution.apk)
-
-## Donation
-If this project help you reduce time to develop, you can give me a cup of coffee :) 
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DV499BFU9XWFQ)
-
-## Contributors
-
-Author: [Simone Pessotto](https://www.simonepessotto.it)
-
-### Special thanks to :
-
-[Patrick Geselbracht](https://github.com/PattaFeuFeu)
 
 ## LICENSE
 
