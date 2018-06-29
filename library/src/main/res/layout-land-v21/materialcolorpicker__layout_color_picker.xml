@@ -18,6 +18,7 @@
         android:layout_width="0dp"
         android:layout_height="match_parent"
         android:layout_weight="1"
+        android:background="@color/materialcolorpicker__dark"
         android:paddingBottom="@dimen/materialcolorpicker__activity_vertical_margin"
         android:paddingLeft="@dimen/materialcolorpicker__activity_horizontal_margin"
         android:paddingRight="@dimen/materialcolorpicker__activity_horizontal_margin"
@@ -31,7 +32,7 @@
             android:maxHeight="3dip"
             android:minHeight="3dip"
             android:progressDrawable="@drawable/materialcolorpicker__alpha_progress"
-            android:textColor="@android:color/black"
+            android:textColor="@android:color/white"
             android:thumbTint="@android:color/black"/>
 
         <com.pes.androidmaterialcolorpickerdialog.MaterialColorPickerTextSeekBar
@@ -78,7 +79,8 @@
             android:layout_alignEnd="@+id/hexCode"
             android:layout_alignParentStart="true"
             android:labelFor="@id/hexCode"
-            android:text="@string/materialcolorpicker__hash"/>
+            android:text="@string/materialcolorpicker__hash"
+            android:textColor="@android:color/white"/>
 
         <EditText
             android:id="@id/hexCode"
@@ -94,7 +96,7 @@
             android:maxLines="1"
             android:paddingEnd="4dp"
             android:paddingStart="4dp"
-            android:textColor="@android:color/primary_text_light"
+            android:textColor="@android:color/white"
             android:textColorHint="@android:color/primary_text_light"
             android:textSize="18sp"
             tools:text="123456"/>
