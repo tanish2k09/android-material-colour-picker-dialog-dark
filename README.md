@@ -1,7 +1,7 @@
 [![Donate to the original developers](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DV499BFU9XWFQ)
 
 # Android Material Color Picker Dialog
-A simple, minimalistic and beautiful dialog color picker with a dark theme for Android 4.1+ devices. This color picker is easy-to-use and easy-to-integrate in your application to let users of your app choose color in a simple way. Light version can be found under the 'Languages' section.
+A simple, minimalistic and beautiful dialog color picker with a dark theme for Android 4.1+ devices. This color picker is easy-to-use and easy-to-integrate in your application to let users of your app choose color in a simple way. Light version can be found under the 'Translations' section.
 
 Features
 - Get Hex and (A)RGB color codes
@@ -39,7 +39,7 @@ dependency in your `build.gradle`.
 (module)
 ```groovy    
     dependencies {
-        compile '(coming soon)'
+        implementation 'com.dubstepwolf123.materialcolorpickerdark'
     }
 ```
 
@@ -122,7 +122,7 @@ The old interface is still in the library but will be removed in the next versio
 * Turkish
 * Russian
 
-If you would like to help localise this library please fork the project, create and verify your language files, add the language to the README then create a pull request.
+If you would like to help localise this library please do so on the White version (link found below) and follow their steps.
 
 ## White Version (Original)
 
