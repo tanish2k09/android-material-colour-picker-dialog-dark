@@ -14,13 +14,13 @@ Design inspired from [Dribbble](https://dribbble.com/shots/1858968-Material-Desi
 
 Portrait
 
-![Portrait RGB](screenshots/main_portrait_rgb.png)
-![Portrait ARGB](screenshots/main_portrait_argb.png)
+![Portrait RGB](screenshots/dark_p.png)
+![Portrait ARGB](screenshots/dark_alpha_p.png)
 
 Landscape
 
-![Landscape RGB](screenshots/main_landscape_rgb.png)
-![Landscape ARGB](screenshots/main_landscape_argb.png)
+![Landscape RGB](screenshots/dark_l.png)
+![Landscape ARGB](screenshots/dark_alpha_l.png)
 
 
 ## HOW TO USE IT
