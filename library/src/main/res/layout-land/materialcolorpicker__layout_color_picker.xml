@@ -117,6 +117,7 @@
             android:layout_alignParentRight="true"
             android:clickable="true"
             android:text="@string/materialcolorpicker__btnSelectColor"
+            android:textColor="@android:color/black"
             />
 
     </RelativeLayout>

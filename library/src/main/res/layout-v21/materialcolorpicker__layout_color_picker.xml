@@ -108,7 +108,9 @@
             android:layout_alignBaseline="@+id/hexCode"
             android:layout_alignParentBottom="false"
             android:layout_alignParentEnd="true"
-            android:text="@string/materialcolorpicker__btnSelectColor"/>
+            android:text="@string/materialcolorpicker__btnSelectColor"
+            android:textColor="@android:color/black"
+            />
 
     </RelativeLayout>
 
